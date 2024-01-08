@@ -10,6 +10,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
- Formulario.
+ E um formulario feito com a intençao de aprende o basico de javascript
 
-##
+
